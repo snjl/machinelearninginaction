@@ -1,6 +1,6 @@
 from numpy import *
 
-from Ch02 import kNN_dating
+from KNN import kNN_dating
 import matplotlib.pyplot as plt
 
 fig = plt.figure()

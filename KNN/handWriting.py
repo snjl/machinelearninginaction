@@ -1,7 +1,7 @@
 import numpy as np
 import os
 
-from Ch02 import kNN
+from KNN import kNN
 
 
 # 读取一张图像,存为一个1024*1的向量
