@@ -2,6 +2,7 @@
 1. DecisionTree1.ipynb 参考 https://cuijiahua.com/blog/2017/11/ml_2_decision_tree_1.html
 2. DecisionTree2.ipynb，ClassesClassification.ipynb 参考 https://cuijiahua.com/blog/2017/11/ml_3_decision_tree_2.html
 3. 剪枝 参考 https://blog.csdn.net/jerry81333/article/details/53182193
+4. 参考 https://github.com/NLP-LOVE/ML-NLP
 # sklearn中决策树DecisionTreeClassifier参数
 
 
